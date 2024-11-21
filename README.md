@@ -8,6 +8,10 @@ At the top of this page, you should find a green button `Code`, on the right sid
 
 ![image](https://github.com/user-attachments/assets/967f6733-af9d-4805-b97e-ed25c6470423)
 
+If you don't see that, look for the `<> Code` tab under the page header and open that in a new tab or window. The green button will be on that page instead.
+
+![image](https://github.com/user-attachments/assets/a87f9d95-7113-4beb-90bb-f34bd2dc52ed)
+
 From the popup that appears, select `Download ZIP` at the bottom:
 
 ![image](https://github.com/user-attachments/assets/32383193-20b3-4ebc-bd31-9613e8a8ef18)
